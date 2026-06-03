@@ -1,6 +1,6 @@
 cask "bge" do
-  version "0.1.0"
-  sha256 "b9431d16ecf0513fa61ff28cf76ea730eceae9d4595d85d5172dd8b52cfae932"
+  version "0.1.1"
+  sha256 "6028cb819f77869c05d711847e8034bf956cce23a39fbb18af07488ce42710b5"
 
   url "https://github.com/dotbge/bge-cli/releases/download/v#{version}/bge-#{version}-macos-universal.zip",
       verified: "github.com/dotbge/bge-cli/"
